@@ -1,0 +1,13 @@
+Laravel version : 8.16.12
+
+Laravel Auth : jetstream
+
+Admin template : AdminLTE 3.2
+
+Migration : php artisan migrate
+
+Seeder commamd : php artisan db:seed
+
+Create compnay model with migration and resource controller : php artisan make:model Compnay -mcr
+
+Access storage from public : php artisan storage:link
